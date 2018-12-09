@@ -1,0 +1,19 @@
+body {
+    background: #ecf0f1;
+    min-height: 100vh;
+}
+
+#displayEmployees {
+    margin-top: 30px;
+}
+#mainBtn {
+    margin-top: 40px;
+}
+
+h6 {
+    margin-top: 20px;
+}
+
+#employedCheck {
+    margin-top: 20px;
+}
